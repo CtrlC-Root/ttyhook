@@ -1,0 +1,9 @@
+# C build artifacts
+*.o
+*.d
+
+# shared libraries
+ttyhook.so
+
+# binaries
+ttyhook_test
